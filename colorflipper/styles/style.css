@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300&family=Secular+One&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Mulish", sans-serif;
+  font-family: "Secular One", sans-serif;
+  font-weight: 200;
+}
+
+nav {
+  box-shadow: 1.7px 1.7px 0 rgb(0, 0, 0, 0.4);
+  padding: 30px;
+  background-color: white;
+}
+
+.nav-center {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h4{
+    color: dodgerblue;
+}
+
+ul {
+  list-style: none;
+    display: flex;
+}
+
+li {
+  margin-right: 30%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:is(:link,:active,:visited).active{
+    color: dodgerblue;
+}
+
+.container {
+  text-align: center;
+  width: 500px;
+  margin-left: 37%;
+}
+
+h2 {
+  margin-top: 40%;
+  padding: 30px;
+color: white;
+  background-color: #353535;
+  border-radius: 10px;
+}
+
+.btn {
+  margin-top: 10%;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  background-color: #353535;
+  border: none;
+}
