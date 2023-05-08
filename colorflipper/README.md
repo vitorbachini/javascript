@@ -4,7 +4,7 @@
 
 Projeto que usa como base este repositório do GitHub: https://github.com/john-smilga/javascript-basic-projects. Fiz alterações no CSS e também no modo de como são selecionadas as cores.
 
-[Clique aqui para acessar](https://vitorbachini.github.io/colorflipper/)
+[Clique aqui para acessar](https://vitorbachini.github.io/javascript/colorflipper/)
 
 ## Tecnologias
 

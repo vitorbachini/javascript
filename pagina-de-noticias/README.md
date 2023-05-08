@@ -4,7 +4,7 @@
 
 Exemplo de página de notícias realizado no curso de Desenvolvimento Web - ProgramadorBr
 
-[Clique aqui para acessar](https://vitorbachini.github.io/pagina-de-noticias/)
+[Clique aqui para acessar](https://vitorbachini.github.io/javascript/pagina-de-noticias/)
 
 ## Tecnologias
 

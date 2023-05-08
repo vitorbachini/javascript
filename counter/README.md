@@ -4,7 +4,7 @@
 
 Um simples projeto de contador.
 
-[Clique aqui para acessar](https://vitorbachini.github.io/counter/)
+[Clique aqui para acessar](https://vitorbachini.github.io/javascript/counter/)
 
 ## Tecnologias
 
